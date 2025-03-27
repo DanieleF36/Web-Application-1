@@ -1,7 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import './App.css';
-import {Navigation} from './components/Navigation';
+import {Navigation} from './Components/Navigation';
 import {PagesTable} from "./Components/Pages.jsx";
 import {useEffect, useState} from "react";
 import {BrowserRouter, Routes, Route, Navigate, Link} from "react-router-dom";
